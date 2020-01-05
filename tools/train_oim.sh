@@ -2,7 +2,7 @@
 
 # Usage:
 # ./tools/train_oim.sh oim_train models/VGG16/solver.prototxt 0.2 0.2 5.0 data/imagenet_models/$VGG16_model_name
-# ./tools/train_oim.sh oim_train_ft models/VGG16/solver_ft.prototxt 0.2 0.2 2.0 output/oim_train/voc_2007_trainval/vgg16_oim_iter_70000.caffemodel
+# ./tools/train_oim.sh oim_train_st2 models/VGG16/solver_st2.prototxt 0.2 0.2 2.0 output/oim_train/voc_2007_trainval/vgg16_oim_st1_iter_70000.caffemodel
 
 
 DATE=$(date +"%Y%m%d_%H%M%S")

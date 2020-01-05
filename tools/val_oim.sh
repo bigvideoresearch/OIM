@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-# Usage: ./tools/val_oim.sh oim_trainval models/VGG16/test.prototxt output/oim_train_ft/voc_2007_trainval/vgg16_oim_ft_iter_20000.caffemodel
+# Usage: ./tools/val_oim.sh oim_trainval models/VGG16/test.prototxt output/oim_train_st2/voc_2007_trainval/vgg16_oim_st2_iter_20000.caffemodel
 
 DATE=$(date +"%Y%m%d_%H%M%S")
 
