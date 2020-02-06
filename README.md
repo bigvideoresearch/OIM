@@ -1,8 +1,10 @@
 ## Object Instance Mining for Weakly Supervised Object Detection
 
-**[Chenhao Lin](mailto:linchenhao@sensetime.com), Siwen Wang, Dongqi Xu, [Yu Lu](mailto:luyu@sensetime.com), [Wayne Zhang](mailto:wayne.zhang@sensetime.com).**
+**[Chenhao Lin](mailto:linchenhao@sensetime.com), Siwen Wang, Dongqi Xu, [Yu Lu<sup>\*</sup>](mailto:luyu@sensetime.com), [Wayne Zhang](mailto:wayne.zhang@sensetime.com).**
 
 SenseTime Research, SenseTime.
+
+- *Note that \* means the corresponding author.*
 
 ### Overview of OIM
 **Object Instance Mining (OIM) for weakly** supervised object detection that effectively mines all possible instances with only image-level annotation using spatial and appearance graphs.  
