@@ -7,7 +7,7 @@ SenseTime Research, SenseTime.
 ### Overview of OIM
 **Object Instance Mining (OIM) for weakly** supervised object detection that effectively mines all possible instances with only image-level annotation using spatial and appearance graphs.  
 
-The paper has been accepted by AAAI 2020. For more details, please refer to our [paper](https://arxiv.org/abs/XXXX).
+The paper has been accepted by AAAI 2020. For more details, please refer to our [paper](https://arxiv.org/abs/2002.01087).
 
 <p align="left">
 <img src="images/architecture.jpg" alt="OIM architecture" width="900px">
@@ -120,11 +120,10 @@ Some OIM visualization results.
 
 ## Citation
 ```
-@inproceedings{baek2019character,
+@inproceedings{lin2020object,
   title={Object Instance Mining for Weakly Supervised Object Detection},
   author={Chenhao Lin, Siwen Wang, Dongqi Xu, Yu Lu, Wayne Zhang},
-  booktitle={},
-  pages={9365--9374},
+  journal={arXiv preprint arXiv:2002.01087},
   year={2020}
 }
 ```
